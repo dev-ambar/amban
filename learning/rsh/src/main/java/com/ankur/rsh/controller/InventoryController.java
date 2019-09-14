@@ -72,6 +72,6 @@ public class InventoryController {
 		
 	}
 	
-	
+	//  method for remove repository s
 
 }
