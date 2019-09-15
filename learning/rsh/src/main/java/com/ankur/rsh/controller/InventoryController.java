@@ -32,14 +32,6 @@ public class InventoryController {
 	@Autowired
 	InventoryService inventoryService;
 	
-	/*//@RequestMapping(method=RequestMethod.GET)
-	public List<String>  getInventoryList(){
-		System.out.println("Inventory controller");
-		
-		return inventoryService.getInventoryList();
-	}*/
-	
-	
 	@RequestMapping(method=RequestMethod.GET)
 	public Collection<Inventory>  getAllInventory(){
 		System.out.println("Inventory controller");
