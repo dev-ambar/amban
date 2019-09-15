@@ -21,7 +21,7 @@ import com.ankur.rsh.model.Inventory;
 import com.ankur.rsh.service.InventoryService;
 
 /**
- * @author Ankur
+ * @author Ankur & Ambar
  *
  */
 @RestController
